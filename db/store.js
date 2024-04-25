@@ -54,6 +54,5 @@ class Store {
     }
  }
 
-// new Store().getNotes().then((notes) => console.log(notes));
 
  module.exports = new Store();
